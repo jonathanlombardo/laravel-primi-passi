@@ -9,6 +9,7 @@
   
 </head>
 <body>
-  <h1>Macchebbello Laravello</h1>
+  <h1>{{ $title }}</h1>
+  <p>{{ $paragraph }}</p>
 </body>
 </html>
